@@ -9,3 +9,6 @@ Link para Lista 2 no Google Colab(institucional):
 
 * https://colab.research.google.com/drive/1ktg-TLlhdktDXJlKSNFjHYIq7FTbsCpz?usp=sharing
 
+Link para Lista 3 no Google Colab(institucional):
+
+* https://colab.research.google.com/drive/1x4B3f2WetbQsKPxJUVv5I4Oe-kR368EQ?usp=sharing
