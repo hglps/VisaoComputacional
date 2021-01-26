@@ -18,6 +18,7 @@ Requisitos:
 * Imagens em estéreo de uma pessoa
 
 Caso utilize o Anaconda, basta instalar o PySimpleGUI:
+
 ``` python -m pip install pysimplegui ```
 
 Para executar:
