@@ -2,7 +2,6 @@
 
 Alunos:
 * Hiago Lopes Cavalcante
-* Jonh Lucas Alves da Silva
 
 Linguagem: Python
 
