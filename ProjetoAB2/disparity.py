@@ -60,7 +60,7 @@ def gen_disparity_map(img1_path, img2_path, maxDisp=6, block_size=5, uniqueness_
 	img_2_undistorted = cv2.undistort(img_2, K, dist, None, new_camera_matrix)
 
 	#Disparity object
-	win_size = 3
+	win_size = 5
 	min_disp = 0
 	max_disp = 16*int(maxDisp) #min_disp * 9
 	num_disp = max_disp - min_disp # Needs to be divisible by 16
