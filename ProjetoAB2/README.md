@@ -1,5 +1,9 @@
 # Projeto AB2 - Reconstrução estéreo 3D de pessoas
 
+Alunos:
+* Hiago Lopes Cavalcante
+* Jonh Lucas Alves da Silva
+
 Linguagem: Python
 
 Requisitos: 
